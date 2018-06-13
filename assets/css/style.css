@@ -1,0 +1,13 @@
+.foto_item{
+	width: 150px;
+	float: left;
+	height: 200px;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.foto_item img{
+	width: 150px;
+
+	
+}
